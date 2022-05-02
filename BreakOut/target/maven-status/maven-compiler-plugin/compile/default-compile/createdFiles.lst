@@ -1,0 +1,9 @@
+com\mycompany\breakout\Sprite.class
+com\mycompany\breakout\Brick.class
+com\mycompany\breakout\Paddle.class
+com\mycompany\breakout\Board.class
+com\mycompany\breakout\Commons.class
+com\mycompany\breakout\Ball.class
+com\mycompany\breakout\Breakout.class
+com\mycompany\breakout\Board$TAdapter.class
+com\mycompany\breakout\Board$GameCycle.class
